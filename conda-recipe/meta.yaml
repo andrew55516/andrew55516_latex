@@ -1,0 +1,20 @@
+package:
+  name: "latex"
+  version: "0.1"
+
+source:
+  path: ".."
+
+build:
+  noarch: python
+
+requirements:
+  host:
+    - python
+    - pip
+  run:
+    - python
+
+about:
+  home: ""
+  summary: ""
