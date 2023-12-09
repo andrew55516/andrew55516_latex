@@ -1,5 +1,0 @@
-setup.py
-latex.egg-info/PKG-INFO
-latex.egg-info/SOURCES.txt
-latex.egg-info/dependency_links.txt
-latex.egg-info/top_level.txt
